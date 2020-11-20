@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-rbviana-red.svg)](https://www.linkedin.com/in/renataborgesviana)
 
 <p align="center">
-  <img src="banner - name.png" >
+  <img src="img/banner_name.png">
 </p>
 
 Aqui você encontra meus aprendizados e projetos relacionados a Data Science e Machine Learning utilizando Python.
