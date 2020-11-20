@@ -13,5 +13,5 @@ Lista de Projetos em Jupyter Notebook:
 
 ## Aprendizados:
 Lista de atividades feitas no curso Python do Zero - SIGMOIDAL  em Jupyter Notebook :
-* **Analisando Dados da Empresa:** https://bit.ly/3lRqRNk 
+* **Analisando Dados da Empresa:** https://bit.ly/33288rh
 
